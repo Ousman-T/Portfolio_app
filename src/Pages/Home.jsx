@@ -2,6 +2,7 @@ import React from "react"
 import LinkedInIcon from "@material-ui/icons/LinkedIn"
 import EmailIcon from "@material-ui/icons/Email"
 import GithubIcon from "@material-ui/icons/GitHub"
+import "../Styles/HomeStyle.css"
 
 export default function Home(){
     return(
@@ -22,16 +23,16 @@ export default function Home(){
                         <span>HTML, CSS, JavaScript, React.js, React Redux, BootStrap, TailWindCSS, MaterialUI, Yarn.</span>
                     </li>
                 <li className="list">
-                    
+                    <li className="item">
                         <h2>Back-End</h2>
                         <span>MongoDB, Node.js, MySQL.</span>
-                    
+                    </li>
                 </li>
                 <li className="list">
-                    
+                    <li className="item">
                         <h2>Languages</h2>
                         <span>JavaScript.</span>
-                    
+                    </li>
                 </li>
                 </ol>
             </div>
