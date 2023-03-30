@@ -3,6 +3,7 @@ import LinkedInIcon from "@material-ui/icons/LinkedIn"
 import EmailIcon from "@material-ui/icons/Email"
 import GithubIcon from "@material-ui/icons/GitHub"
 import "../Styles/HomeStyle.css"
+import { GetQuotes } from "../Components/Quotes"
 
 export default function Home(){
     return(
@@ -10,6 +11,8 @@ export default function Home(){
             <div className="about">
                 <h2>Hello, My Name is Ousman!</h2>
                 <div className="prompt"><p>A Full Stack Developer with a passion for overcoming challenges, learning, and creating!</p>
+                <h2>Quote of the Day</h2>
+                <GetQuotes />
                 <LinkedInIcon />
                 <EmailIcon />
                 <GithubIcon />
@@ -22,18 +25,18 @@ export default function Home(){
                         <h2>Front-End</h2>
                         <span>HTML, CSS, JavaScript, React.js, React Redux, BootStrap, TailWindCSS, MaterialUI, Yarn.</span>
                     </li>
-                <li className="list">
+                <ol className="list">
                     <li className="item">
                         <h2>Back-End</h2>
                         <span>MongoDB, Node.js, MySQL.</span>
                     </li>
-                </li>
-                <li className="list">
+                </ol>
+                <ol className="list">
                     <li className="item">
                         <h2>Languages</h2>
                         <span>JavaScript.</span>
                     </li>
-                </li>
+                </ol>
                 </ol>
             </div>
         </div>
