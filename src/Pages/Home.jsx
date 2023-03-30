@@ -10,9 +10,9 @@ export default function Home(){
         <div className="home">
             <div className="about">
                 <h2>Hello, My Name is Ousman!</h2>
-                <div className="prompt"><p>A Full Stack Developer with a passion for overcoming challenges, learning, and creating!</p>
                 <h2>Quote of the Day</h2>
                 <GetQuotes />
+                <div className="prompt"><p>A Full Stack Developer with a passion for overcoming challenges, learning, and creating!</p>
                 <LinkedInIcon />
                 <EmailIcon />
                 <GithubIcon />
