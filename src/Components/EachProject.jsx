@@ -5,6 +5,7 @@ function EachProject({image, name}){
         <div className="projectItem">
             <div style={{backgroundImage: 'url(${image})'}} className="bgImage"/>
                 <h1>{name}</h1>
+                <img src={image} alt={name}/>
             </div>
 
         
