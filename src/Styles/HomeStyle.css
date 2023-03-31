@@ -4,6 +4,12 @@
     font-family: "Arial", sans-serif;
     color: #3e497a;
   }
+
+  h1{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
   
   .about {
     width: 100%;
@@ -49,15 +55,15 @@
     text-align: center;
   }
   
-  .skills .list {
+  .skills .list .item {
     list-style: none;
-    width: 60%;
-    text-align: center;
+    /* width: 60%; */
+    /* text-align: center; */
   }
   
   .list span {
     font-size: 20px;
-    text-align: center;
+    /* text-align: center; */
   }
   
   @media only screen and (max-width: 600px) {
@@ -71,17 +77,9 @@
       width: 80%;
     }
   
-    .skills {
-      text-align: center;
-    }
-    .list {
-      padding: 0;
-      text-align: center;
-    }
-  
     .skills h2 {
       font-size: 30px;
-      text-align: center;
+      /* text-align: center; */
     }
   }
   

@@ -50,6 +50,11 @@
   .projectItem h1 {
     font-size: 25px;
   }
+
+  img{
+    max-height: 100%;
+    max-width: 100%;
+  }
   
   @media only screen and (max-width: 1300px) {
     .projectList {

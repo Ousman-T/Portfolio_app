@@ -24,13 +24,13 @@ export default function Home(){
                         <h2>Front-End</h2>
                         <span>HTML, CSS, JavaScript, React.js, React Redux, BootStrap, TailWindCSS, MaterialUI, Yarn.</span>
                     </li>
-                <ol className="list">
+                <ol className="item">
                     <li className="item">
                         <h2>Back-End</h2>
                         <span>MongoDB, Node.js, MySQL.</span>
                     </li>
                 </ol>
-                <ol className="list">
+                <ol className="item">
                     <li className="item">
                         <h2>Languages</h2>
                         <span>JavaScript.</span>
