@@ -18,7 +18,7 @@
     height: auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    place-items: center;
+    /* place-items: center; */
   }
   
   /* MENU ITEM STYLING */
