@@ -16,6 +16,16 @@ export default function Projects(){
                 <EachProject name="React-Tac-Toe" image={ReactTacToe} />
                 <EachProject name="Zelda-API" image={ZeldaBOTW} />
             </div>
+            <div>
+                <h1>Links to Projects</h1>
+                <div>
+                    <a href="https://main--jeopardy22.netlify.app/">Jeopardy</a>
+                    <a href="https://moviesearches.netlify.app/">Movie Search</a>
+                    <a href="https://react-tac-toee.netlify.app/">Tic Tac Toe</a>
+                    <a href="https://zelda-botw-monsters.netlify.app/">Zelda API</a>
+
+                </div>
+            </div>
         </div>
     )
 }
