@@ -18,3 +18,5 @@ Experiences page was really fun to work on and structure.
 
 Implemented a vertical timeline to the Experience.jsx file in order to show work/school experience
 
+API chosen was one for quotes. Large array of quotes. Wrote a function to return one random quote on every refresh/site visit.
+
