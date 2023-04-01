@@ -23,7 +23,6 @@ export default function Projects(){
                     <a href="https://moviesearches.netlify.app/">Movie Search</a>
                     <a href="https://react-tac-toee.netlify.app/">Tic Tac Toe</a>
                     <a href="https://zelda-botw-monsters.netlify.app/">Zelda API</a>
-
                 </div>
             </div>
         </div>
