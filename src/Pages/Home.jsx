@@ -12,7 +12,9 @@ export default function Home(){
                 <h2>Hello, My Name is Ousman!</h2>
                 <GetQuotes />
                 <div className="prompt"><p>A Full Stack Developer with a passion for overcoming challenges, learning, and creating!</p>
+               <button>
                 <LinkedInIcon />
+                </button> 
                 <EmailIcon />
                 <GithubIcon />
                 </div>
