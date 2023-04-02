@@ -5,6 +5,8 @@ import GithubIcon from "@material-ui/icons/GitHub"
 import "../Styles/HomeStyle.css"
 import { GetQuotes } from "../Components/Quotes"
 
+
+
 export default function Home(){
     function GitHub(){
         window.location.href="https://github.com/Ousman-T" 

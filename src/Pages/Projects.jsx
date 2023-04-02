@@ -20,8 +20,11 @@ export default function Projects(){
                 <h1>Links to Projects Repositories</h1>
                 <div>
                     <a href="https://github.com/Ousman-T/Jeopardy">Jeopardy</a>
+                    <br />
                     <a href="https://github.com/Ousman-T/FetchMovie">Movie Search</a>
+                    <br />
                     <a href="https://github.com/Ousman-T/React_Tac_Toe">Tic Tac Toe</a>
+                    <br />
                     <a href="https://github.com/Ousman-T/Zelda_BOTW_Monster_API">Zelda API</a>
                 </div>
             </div>
