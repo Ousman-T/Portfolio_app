@@ -11,18 +11,18 @@ export default function Projects(){
         <div className="projects">
             <h1>My Personal Projects</h1>
             <div className="projectList">
-                <EachProject name="Movie Search" image={MovieSearch}/>
-                <EachProject name="Jeopardy" image={Jeopardy} />
-                <EachProject name="React-Tac-Toe" image={ReactTacToe} />
-                <EachProject name="Zelda-API" image={ZeldaBOTW} />
+                <EachProject name="Movie Search" image={MovieSearch} url="https://moviesearches.netlify.app/"/>
+                <EachProject name="Jeopardy" image={Jeopardy} url="https://jeopardy22.netlify.app/" />
+                <EachProject name="React-Tac-Toe" image={ReactTacToe} url="https://react-tac-toee.netlify.app/"/>
+                <EachProject name="Zelda-API" image={ZeldaBOTW} url="https://zelda-botw-monsters.netlify.app/"/>
             </div>
             <div>
-                <h1>Links to Projects</h1>
+                <h1>Links to Projects Repositories</h1>
                 <div>
-                    <a href="https://main--jeopardy22.netlify.app/">Jeopardy</a>
-                    <a href="https://moviesearches.netlify.app/">Movie Search</a>
-                    <a href="https://react-tac-toee.netlify.app/">Tic Tac Toe</a>
-                    <a href="https://zelda-botw-monsters.netlify.app/">Zelda API</a>
+                    <a href="https://github.com/Ousman-T/Jeopardy">Jeopardy</a>
+                    <a href="https://github.com/Ousman-T/FetchMovie">Movie Search</a>
+                    <a href="https://github.com/Ousman-T/React_Tac_Toe">Tic Tac Toe</a>
+                    <a href="https://github.com/Ousman-T/Zelda_BOTW_Monster_API">Zelda API</a>
                 </div>
             </div>
         </div>

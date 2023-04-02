@@ -6,15 +6,24 @@ import "../Styles/HomeStyle.css"
 import { GetQuotes } from "../Components/Quotes"
 
 export default function Home(){
+    function GitHub(){
+        window.location.href="https://github.com/Ousman-T" 
+    }
+    function LinkedIn(){
+        window.location.href="https://www.linkedin.com/in/ousman-touray-/"
+    }
+    function EMail(){
+        alert("Email: otouray14@gmail.com. Phone number: (862)-237-1221")
+    }
     return(
         <div className="home">
             <div className="about">
                 <h2>Hello, My Name is Ousman!</h2>
                 <GetQuotes />
                 <div className="prompt"><p>A Full Stack Developer with a passion for overcoming challenges, learning, and creating!</p>
-                <LinkedInIcon /> 
-                <EmailIcon />
-                <GithubIcon />
+                <LinkedInIcon onClick={LinkedIn}/> 
+                <EmailIcon onClick={EMail}/>
+                <GithubIcon onClick={GitHub}/>
                 </div>
             </div>
             <div className="skills">
