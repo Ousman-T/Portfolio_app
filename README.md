@@ -1,12 +1,14 @@
-Portfolio Project Built using React.
+Technologies Used -
 
-All files were created with the .jsx tag rather than .js
+Portfolio Project Built using React #61DAFB
 
-Styled the project using basic CSS. Each Component has it's own correlating CSS file.
+All files were created with the .jsx tag rather than .js #61DAFB
 
-Implemented Routing to allow navigation throughout the App.
+Styled the project using basic CSS. Each Component has it's own correlating CSS file. #1572B6 
 
-Used material-ui to render logos and icons.
+Implemented Routing to allow navigation throughout the App. #CA4245
+
+Used material-ui to render logos and icons. #007FFF
 Also had to force material-ui to install due to deprecation
 
 Faced a few challenges with this project, mainly CSS driven.
