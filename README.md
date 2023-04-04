@@ -1,4 +1,6 @@
 Technologies Used -
+https://skills.thijs.gg/icons?i=js,html,css,react)](https://skills.thijs.gg)
+
 
 Portfolio Project Built using React 
 
