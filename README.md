@@ -31,7 +31,7 @@ Had a great time giving logos and icons functionality, learning to work with pro
 API chosen was one for quotes. Large array of quotes. Wrote a function to return one random quote on every refresh/site visit.
 
 
-Resources-
+## Resources-
 React Router Dom - https://www.w3schools.com/react/react_router.asp
 
 Material UI - https://mui.com/material-ui/getting-started/overview/
