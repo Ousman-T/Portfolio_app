@@ -18,5 +18,11 @@ Experiences page was really fun to work on and structure.
 
 Implemented a vertical timeline to the Experience.jsx file in order to show work/school experience
 
+Planning to implement a feature for people to message me directly or email
+
+Need to touch up on some styling. 
+
+Had a great time giving logos and icons functionality, learning to work with props, router, and useEffect hands on was pretty eye opening.
+
 API chosen was one for quotes. Large array of quotes. Wrote a function to return one random quote on every refresh/site visit.
 
