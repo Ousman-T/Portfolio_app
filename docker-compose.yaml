@@ -1,0 +1,8 @@
+services:
+  portfolio_app:
+    build: ./src
+    container_name: portfolio_app
+    ports:
+      - '3000:3000'
+    stdin_open: true
+    tty: true
